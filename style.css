@@ -13,13 +13,17 @@ body {
     height: auto;
     background-color: #fff;
     border-radius: 10px; 
-    
+    border: 1px solid #ccc;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.2); 
 }
 
 input, #display {
     display: block;
     margin: 20px auto;
     font-size: 18px;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 80%;
 }
 
 input{
