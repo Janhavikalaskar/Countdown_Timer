@@ -2,7 +2,9 @@
 Description: Build a web-based countdown timer that allows users to set a specific
 duration and start the timer. The timer counts down to zero, and users can pause or reset
 it as needed.
+
 Key Features:
+
 1. Input Field: Create an input field for users to enter the countdown duration in
 minutes.
 
